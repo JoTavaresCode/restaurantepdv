@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 44" height="36">
+  <defs>
+    <linearGradient id="kgrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3557DD"/>
+      <stop offset="100%" stop-color="#5C86F2"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="2" width="40" height="40" rx="10" fill="url(#kgrad)"/>
+  <text x="20" y="30" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="22" fill="#ffffff">K</text>
+  <text x="50" y="29" font-family="system-ui, sans-serif" font-weight="800" font-size="22" fill="#12141c">Kronax<tspan fill="#d85a30">Menu</tspan></text>
+</svg>
